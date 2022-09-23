@@ -18,19 +18,48 @@
   <h2>
    💪🏾 SKILLS
   </h2>
-  <p>
-  <ul>
-  <li>Frontend development: <img src="https://camo.githubusercontent.com/e305664dc3cd700bbc80c99d36cd7feafd872a1526e841ddf3809c6678a6939e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d626c61636b3f266c6f676f3d68746d6c35"></img>
-  <img src="https://camo.githubusercontent.com/fd61d6ca4bc327aaaaa1754c6d68fc78af823fc7c6cacd793787b4e0f53aa066/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d626c61636b3f266c6f676f3d63737333"></img>
-  <img src="https://camo.githubusercontent.com/1c2c77ac59069dfcef9352aeab50dc2d8866ced09d738413dfd63967ab91bac5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176617363726970742d626c61636b3f266c6f676f3d6a617661736372697074"></img>
-  <img src="https://camo.githubusercontent.com/6e140be401a097ada4ddfd0c56dcb41259ff9fff1b22da61f0e7d20f6d870689/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d626c61636b3f266c6f676f3d626f6f747374726170"></img>
-  </li>
-  <li>Backend development: <b>STILL LEARNING</b></li>
-  
-  <li>Currently learning: <img src="https://camo.githubusercontent.com/0d8a41906797cf1332dbd4e7b7c506095d864e96ceaf547da73d25bafb45905c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970657363726970742d626c61636b3f266c6f676f3d74797065736372697074"></img></li>
-  
-  </ul>
-  </p>
+
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Learning  
+<div align="center">  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
 <h2>📱 Socials</h2>
 
 <ul>
