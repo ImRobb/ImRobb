@@ -60,12 +60,6 @@
 
 </td></tr></table>  
 
-<h2>📱 Socials</h2>
-
-<ul>
-  <li>Mail: robertocommerciale18@gmail.com</li>
-  <li>Discord: Asta#0901</li>
-</ul>
 
 
 
