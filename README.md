@@ -1,7 +1,7 @@
 
 <h1>ImRobb</h1>
     <p>
-        💻 Undergraduate student | My objective: Future PhD student in AI
+        💻 Undergraduate student | My objective: Future PhD student.
     </p>
     <h2>
         ✍🏻 ABOUT ME
